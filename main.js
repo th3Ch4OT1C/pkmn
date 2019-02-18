@@ -1,3 +1,5 @@
+console.log("test");
+
 var rarity = {
 	"1": [
 		"Caterpie",
